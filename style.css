@@ -15,6 +15,10 @@ body {
 	font-family: "Roboto", sans-serif;
 }
 
+.cell:hover {
+	stroke: #000;
+}
+
 footer a {
 	text-decoration: none;
 }
